@@ -23,6 +23,7 @@ async function checkConnection() {
 }
 //ejemplo
 //prueba
+//prueba2
 async function setupDatabase() {
     const fs = require('fs');
     const path = require('path');
