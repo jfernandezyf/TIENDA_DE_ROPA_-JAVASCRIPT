@@ -8,6 +8,7 @@ CREATE TABLE IF NOT EXISTS productos (
 );
 
 -- Inserción de 5 productos de prueba
+--prueba
 INSERT INTO productos (nombre, descripcion, precio, imagen) VALUES
 ('Camiseta Básica', 'Camiseta de algodón 100% en color blanco', 15.99, 'https://example.com/images/camiseta-blanca.jpg'),
 ('Pantalón Vaquero', 'Pantalón vaquero de corte recto y color azul', 39.95, 'https://example.com/images/vaquero-azul.jpg'),
