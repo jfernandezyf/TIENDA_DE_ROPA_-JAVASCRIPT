@@ -21,7 +21,8 @@ async function checkConnection() {
         console.error("❌ Error en la conexión a la base de datos:", err.message);
     }
 }
-
+//ejemplo
+//prueba
 async function setupDatabase() {
     const fs = require('fs');
     const path = require('path');
